@@ -1,0 +1,101 @@
+#poem1 {
+    font-family: "Quicksand Light";
+    font-size: 0.8em;
+    font-style: oblique;
+    font-weight: thin;
+    line-height: 1em;
+    text-align: left;
+    letter-spacing: -0.05em;
+    opacity: 0.6;
+    color: #FFFFFF;
+    transform: rotate(-30deg);
+    position: absolute;
+    top: 5em;
+    left: 57em;
+    margin: 0;
+}
+
+#poem2 {
+    font-family: "Quicksand Light";
+    font-size: 0.6em;
+    font-style: oblique;
+    font-weight: thin;
+    line-height: 0.9em;
+    text-align: right;
+    letter-spacing: -0.05em;
+    opacity: 0.4;
+    color: #FFFFFF;
+    transform: rotate(30deg);
+    position: absolute;
+    top: 6em;
+    left: 25em;
+    margin: 0;
+}
+
+#poem3 {
+    font-family: "Quicksand Light";
+    font-size: 0.8em;
+    font-style: oblique;
+    font-weight: thin;
+    line-height: 0.9em;
+    text-align: right;
+    letter-spacing: -0.05em;
+    opacity: 0.4;
+    color: #FFFFFF;
+    transform: rotate(5deg);
+    position: absolute;
+    top: 18em;
+    left: 10em;
+    margin: 0;
+}
+
+#poem4 {
+    font-family: "Quicksand Light";
+    font-size: 0.8em;
+    font-style: oblique;
+    font-weight: thin;
+    line-height: 0.9em;
+    text-align: left;
+    letter-spacing: -0.05em;
+    opacity: 0.3;
+    color: #FFFFFF;
+    transform: rotate(-10deg);
+    position: absolute;
+    top: 20em;
+    left: 60em;
+    margin: 0;
+}
+
+#poem5 {
+    font-family: "Quicksand Light";
+    font-size: 0.8em;
+    font-style: oblique;
+    font-weight: thin;
+    line-height: 0.9em;
+    text-align: right;
+    letter-spacing: -0.05em;
+    opacity: 0.6;
+    color: #FFFFFF;
+    transform: rotate(-20deg);
+    position: absolute;
+    top: 35em;
+    left: 12em;
+    margin: 0;
+}
+
+#poem6 {
+    font-family:"Quicksand Light";
+    font-size: 0.9em;
+    font-style: oblique;
+    font-weight: thin;
+    line-height: 0.9em;
+    text-align: left;
+    letter-spacing: -0.05em;
+    opacity: 0.8;
+    color: #FFFFFF;
+    transform: rotate(10deg);
+    position: absolute;
+    top: 32em;
+    left: 50em;
+    margin: 0;
+}

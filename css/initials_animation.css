@@ -1,0 +1,65 @@
+
+#letter-g {
+    opacity: 0.2;
+    animation: g-fadein 10s infinite;
+}
+
+@keyframes g-fadein {
+    5% { opacity: 1.0;}
+    10%, 100% { opacity: 0.2;}   
+}
+
+#letter-e1 {
+    opacity: 0.2;
+    animation: e1-fadein 10s infinite;
+    animation-delay: 1.5s;
+}
+
+@keyframes e1-fadein {
+    5% { opacity: 1.0;}
+    10%, 100% { opacity: 0.2;}   
+}
+
+#letter-n {
+    opacity: 0.2;
+    animation: n-fadein 10s infinite;
+    animation-delay: 3s;
+}
+
+@keyframes n-fadein {
+    5% { opacity: 1.0;}
+    10%, 100% { opacity: 0.2;}   
+}
+
+#letter-d {
+    opacity: 0.2;
+    animation: d-fadein 10s infinite;
+    animation-delay: 4.5s;
+}
+
+@keyframes d-fadein {
+    5% { opacity: 1.0; }
+    10%, 100% { opacity: 0.2; }   
+}
+
+#letter-e2 {
+    opacity: 0.2;
+    animation: e2-fadein 10s infinite;
+    animation-delay: 6s;
+}
+
+@keyframes e2-fadein {
+    5% { opacity: 1.0; }
+    10%, 100% { opacity: 0.2; }   
+}
+
+#letter-r {
+    opacity: 0.2;
+    animation: r-fadein 10s infinite;
+    animation-delay: 7.5s;
+}
+
+@keyframes r-fadein {
+    5% { opacity: 1.0; }
+    10%, 100% { opacity: 0.2; }   
+}

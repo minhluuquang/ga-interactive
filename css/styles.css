@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "Special Elite";
+    src: url("font/specialelite-regular-webfont.woff2") format("woff2"), 
+         url("font/specialelite-regular-webfont.woff") format("woff");
+}
+
+@font-face {
+    font-family: Quicksand;
+    src: url("font/quicksand-regular-webfont.woff2") format("woff2"), 
+         url("font/quicksand-regular-webfont.woff") format("woff");
+}
+
+
+@font-face {
+    font-family: "Quicksand Light";
+    src: url("font/quicksand-light-webfont.woff2") format("woff2"), 
+         url("font/quicksand-light-webfont.woff") format("woff");
+}
+
+h1,h2,h3,h4,p {
+    line-height: 0;
+    margin: 0;
+}
+
+#inequality {
+    font-family: "Special Elite";
+    font-size: 1.5em;
+    font-style: italic;
+    letter-spacing: 0.3em;
+    color: #FFFFFF;
+    position: absolute;
+    top: 9em;
+    left: 21.2em;
+}
+
+#good-wife {
+    font-family: Poppins;
+    font-style: normal;
+    color: #FFFFFF;
+    font-size: 2.5em;
+    position: relative;
+    left: 8em;
+    top: 15em;
+}
+
+#image-girl{
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: -3em;
+    left: -2em;
+    line-height: 0;
+    margin: 0;
+}
+
+#rain {
+    position: absolute;
+    opacity: 0.05;
+    left: -7em;
+    line-height: 0;
+    margin: 0;
+}
+
+html {
+	background-image: url("image/Background.png");
+    background-size: cover;
+    background-position: center -2.5em;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+div, section {
+    position: relative;
+}
