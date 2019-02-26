@@ -61,6 +61,12 @@ h1,h2,h3,h4,p {
     margin: 0;
 }
 
+#method {
+    position: absolute;
+    top: 30em;
+    left: 2em;
+    width: 300;
+	
 html {
 	background-image: url("image/Background.png");
     background-size: cover;
