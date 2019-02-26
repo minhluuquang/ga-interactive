@@ -62,13 +62,12 @@ h1,h2,h3,h4,p {
 }
 
 #method {
-    position: absolute;
     top: 30em;
     left: 2em;
-    width: 300;
+    width: 300px;
 	
 html {
-	background-image: url("image/Background.png");
+    background-image: url("image/Background.png");
     background-size: cover;
     background-position: center -2.5em;
     background-repeat: no-repeat;
